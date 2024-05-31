@@ -1,3 +1,3 @@
-- Just another sleepy cat.
+Just another sleepy cat.
 
 
